@@ -1,0 +1,3 @@
+Recuerda 
+myenv/
+    Install pygame
